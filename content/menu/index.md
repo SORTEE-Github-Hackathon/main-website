@@ -14,10 +14,3 @@ headless: true
 <br />
 
 <br />
-
-x career-support
-dynamic-collaboration.md
-programming-and-coding.md
-research_documentation.md
-tech-support.md
-visualizing-data-and-results.md

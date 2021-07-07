@@ -3,39 +3,39 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Promoting GitHub use in EcoEvo
 
 {{< columns >}}
-## Astris ipse furtiva
+## Hackathon 
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+-  **Time**:
+-  **Date**:
+
+The purpose of this hackathon is to combine resources and knowledge on how Github is employed in Ecology and Evolution research for the eventual publication on the topic. Exploring the functionality of Github in the for uses beyond and including: programming, documentation, collaborative writing, tech support, displaying results, and more. 
 
 <--->
 
-## Suis quot vota
+## SORTEE Conference
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+- **When**: Virtually, world-wide 12th - 14th of July 
+
+SORTEE is a service organization which brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Anyone interested in improving research in these disciplines is welcome to join, regardless of experience. The society is international in scope, membership, and objectives. [Conference](https://www.sortee.org/events/)
+
 {{< /columns >}}
 
 
-## Tempora nisi nunc
+## Background 
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+Researchers, scientific journals, and data repositories have increasingly focused on scientific data being more Findable, Accessible, Interoperable, and Reusable (FAIR). Yet, a large number of new publications within ecology and evolution still lack adherence to FAIR code and data-sharing policies (Culina et al. 2020).
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+GitHub is a popular version control platform that can be leveraged for sharing code and data, yet the learning curve may deter first-time users in EEB. In this hackathon, we will share, discuss, and brainstorm innovative ways to use GitHub for collaboration and sharing information that aligns with research and career goals for EEB researchers.
 
-## Locis suis novi cum suoque decidit eadem
+‘GitHub hesitancy’ due to conflation of Git and GitHub. People may overestimate the conceptual leap from their current collaborative approaches to GitHub speeds up and democratizes sharing of knowledge at all stages of research Reduces redundant work across research groups.
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+## Organizers
+
+Rob Crystal-Ornelas, Emma Hudgins, Brandon Edwards, Pedro Henrique Pereira Braga, Ciera Martinez, Katherine Hébert & Luna Sánchez Reyes.
+
+## Attendees
+
+You?  [Register](https://www.eventbrite.co.uk/e/sortee-conference-2021-registration-154693776249) for conference and attend to be added!

@@ -4,3 +4,4 @@ baseurl = "https://sortee-github-hackathon.github.io/main-site"
 languageCode = "en-us"
 theme = "book"
 publishDir = "docs"
+relativeURLs = true

@@ -1,6 +1,6 @@
 
 title = "My New Hugo Site"
-baseurl = "https://sortee-github-hackathon.github.io/main-site"
+baseurl = ""
 languageCode = "en-us"
 theme = "book"
 publishDir = "docs"

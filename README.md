@@ -1,6 +1,8 @@
 # README.md
 
-This is the main site for organization and planning of the SORTEE 2021 Conference Hackathon:
+This is the main site for organization and planning of the SORTEE 2021 Conference Hackathon.  
+
+See website here: https://sortee-github-hackathon.github.io/main-website/
 
 ## About Website
 

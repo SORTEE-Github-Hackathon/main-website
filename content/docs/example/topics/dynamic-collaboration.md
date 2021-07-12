@@ -5,20 +5,25 @@ weight: 1
 
 # Dynamic Collaboration
 
-This document serves as a place holder for content that will be collaboratively created at Hackathon. [link to hack.md doc]()
+Session organizers and material developers: Pedro Henrique P. Braga<sup>- *</sup> and Katherine Hébert <sup>= *</sup>
 
-## Presentation of the breakout room topic Step 
+[![badge](https://img.shields.io/static/v1?style=flat&label=&message=pedrohbraga&color=grey&logo=github)](https://github.com/pedrohbraga) [![badge](https://img.shields.io/static/v1?style=flat&label=&message=pedrohp_braga&color=grey&logo=twitter)](https://twitter.com/pedrohp_braga)
+[![badge](https://img.shields.io/static/v1?style=flat&label=&message=katherinehebert&color=grey&logo=github)](https://github.com/katherinehebert) [![badge](https://img.shields.io/static/v1?style=flat&label=&message=hebert_kat&color=grey&logo=twitter)](https://twitter.com/hebert_kat)
 
-## Exposition of examples OR individual/collective practices 
+<p style="margin : 0; padding-top:0;">
+<sup>-</sup> Ph.D. Candidate in Biology at Concordia University, Montréal, Canada.<br>
+<sup>=</sup> Ph.D. Candidate in Biology at Université de Sherbrooke, Sherbrooke, Canada.<br>
+<sup>*</sup> Equally contributed.
+</p>
 
-## Discussion and summary of challenges
+### Access the material
 
-## Return of participants and organizers to the main workshop room
+[Material for this Hackathon's session](https://sortee-github-hackathon.github.io/SORTEE-Hackathon-Dynamic-Collaboration/docs/dynamic_collaboration_material.html)
 
-## Questions for Group
+[Material for Exercise 2](https://sortee-github-hackathon.github.io/SORTEE-Hackathon-Dynamic-Collaboration/docs/dynamic_collaboration_exercise_2.html)
 
-What other tools have you used for this purpose?
-How does GitHub compare to other tools you’ve used for this purpose?
-What are the main challenges in using GitHub for this purpose?
-What are the main benefits of using GitHub over some other tool?
-What could be done to improve GitHub for this purpose?
+### Status
+
+[![render-rmarkdown-material](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-material.yaml/badge.svg)](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-material.yaml)
+
+[![render-rmarkdown-exercise-2](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-exercise-2.yaml/badge.svg)](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-exercise-2.yaml)

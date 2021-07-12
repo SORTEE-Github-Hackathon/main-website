@@ -4,7 +4,7 @@ weight: 1
 ---
 # Visualizing Data and Results
 
-This document serves as a place holder for content that will be collaboratively created at Hackathon. [link to hack.md doc]()
+This document serves as a place holder for content that will be collaboratively created at Hackathon. [link to Collaborative Google Doc](https://docs.google.com/document/d/1c5tjMJFY8EiuWBNx69Hrwy-ldOGnJFhdZ-1gYsF5xxA/edit?usp=sharing)
 
 ## Presentation of the breakout room topic 
 

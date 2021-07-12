@@ -6,9 +6,24 @@ weight: 1
 
 This document serves as a place holder for content that will be collaboratively created at Hackathon. [link to hack.md doc]()
 
-## Presentation of the breakout room topic Step 
+## Presentation of the breakout room topic 
+
+Questions I am interested in:
+
+-  How do we use Github to display our data and results? Notebooks, Websites, ect
+-  How do we build our Github repositories and organizations for displaying our work to our team or community? Directory structure, documentation, ect
+-  Github vs Other venues? Is Github even right for this?  
+
 
 ## Exposition of examples OR individual/collective practices 
+
+-  Use of displaying notebooks as experiments on Github
+	-  Example: https://github.com/DiscoveryDNA/team_neural_network/tree/master/code/experiments
+-  Working on a team using Github Organizations
+	-  Example:  https://github.com/DiscoveryDNA
+-  Hosting website to work on research publicly 
+	-  Example: 1. Organization: https://github.com/cabinetofcuriosity 2. Website: https://github.com/cabinetofcuriosity/cabinetofcuriosity_site
+
 
 ## Discussion and summary of challenges
 

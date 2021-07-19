@@ -40,6 +40,20 @@ Presentation of the breakout room topic Step #  Exposition of examples OR indivi
     </item>
     
     <item>
+      <title>Research documentation</title>
+      <link>/docs/example/topics/research_documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example/topics/research_documentation/</guid>
+      <description>Breakout rooms 1/3 - Visualizing data and Results &amp;amp; Research documentation #  Markdown CheatSheet Our Github Repo Google slides 
+We&amp;rsquo;ll cover the following topics: #  Step 1: Presentation of the breakout room topic
+Step 2: Brief tutorial and time for individual practice
+Step 3: Discussion and summary of challenges
+Step 4: Return of participants and organizers to the main workshop room
+Examples / References that display research documentation, data, and results #  Use of displaying notebooks as experiments on Github</description>
+    </item>
+    
+    <item>
       <title>Tech Support</title>
       <link>/docs/example/topics/tech-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -58,20 +72,6 @@ Presentation of the breakout room topic Step #  Exposition of examples OR indivi
       <description>Visualizing Data and Results #  This document serves as a place holder for content that will be collaboratively created at Hackathon. link to Collaborative Google Doc
 Presentation of the breakout room topic #  Questions I am interested in:
  How do we use Github to display our data and results? Notebooks, Websites, ect How do we build our Github repositories and organizations for displaying our work to our team or community?</description>
-    </item>
-    
-    <item>
-      <title>Visualizing data and Results &amp; Research documentation</title>
-      <link>/docs/example/topics/research_documentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/example/topics/research_documentation/</guid>
-      <description>Breakout rooms 1/3 - Visualizing data and Results &amp;amp; Research documentation #  Markdown CheatSheet Our Github Repo Google slides 
-We&amp;rsquo;ll cover the following topics: #  Step 1: Presentation of the breakout room topic
-Step 2: Brief tutorial and time for individual practice
-Step 3: Discussion and summary of challenges
-Step 4: Return of participants and organizers to the main workshop room
-Examples / References that display research documentation, data, and results #  Use of displaying notebooks as experiments on Github</description>
     </item>
     
     <item>

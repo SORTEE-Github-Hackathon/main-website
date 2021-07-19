@@ -1,5 +1,5 @@
 ---
-title: Visualizing data and Results & Research documentation
+title: Research documentation
 weight: 1
 ---
 # Breakout rooms 1/3 - Visualizing data and Results & Research documentation

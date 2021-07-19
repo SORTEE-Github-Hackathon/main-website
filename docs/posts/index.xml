@@ -6,18 +6,14 @@
     <description>Recent content in Blog on SORTEE Github Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GitHub for research documentation</title>
       <link>/posts/github-for-research-documentation/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/github-for-research-documentation/</guid>
-      <description>GitHub for research documentation A quick tutorial written by Emma Hudgins, originally for the Bennett Lab @ Carleton 1. Getting set up  Make a Github account Download the Github Desktop App Create an OSF account Create a Research Data Management Plan for your project  2. Using GitHub desktop  In the left pane, select Add to create a new repository Choose Create new repository and give the path to the project folder (or create a new folder).</description>
+      <description>GitHub for research documentation #  A quick tutorial written by Emma Hudgins, originally for the Bennett Lab @ Carleton #  1. Getting set up #   Make a Github account Download the Github Desktop App Create an OSF account Create a Research Data Management Plan for your project  2. Using GitHub desktop #   In the left pane, select Add to create a new repository Choose Create new repository and give the path to the project folder (or create a new folder).</description>
     </item>
     
   </channel>

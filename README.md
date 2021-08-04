@@ -29,6 +29,7 @@ GitHub is a popular version control platform that can be leveraged for sharing c
 -  Katherine Hébert, Katherine.Hebert@usherbrooke.ca
 -  Luna Sánchez Reyes, sanchez.reyes.luna@gmail.com
 
+## Status
 
-
+[![.github/workflows/build-and-deploy-hugo.yaml](https://github.com/SORTEE-Github-Hackathon/main-website/actions/workflows/build-and-deploy-hugo.yaml/badge.svg)](https://github.com/SORTEE-Github-Hackathon/main-website/actions/workflows/build-and-deploy-hugo.yaml)
 

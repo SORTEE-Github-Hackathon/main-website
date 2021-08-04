@@ -8,8 +8,8 @@ type: docs
 {{< columns >}}
 ## Hackathon 
 
--  **Time**:
--  **Date**:
+-  **Time**: 11:30am-4pm PT
+-  **Date**: Monday July 12th 2021
 
 The purpose of this hackathon is to combine resources and knowledge on how Github is employed in Ecology and Evolution research for the eventual publication on the topic. Exploring the functionality of Github in the for uses beyond and including: programming, documentation, collaborative writing, tech support, displaying results, and more. 
 

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on SORTEE Github Hackathon</title>
-    <link>/</link>
-    <description>Recent content in Introduction on SORTEE Github Hackathon</description>
+    <title>SORTEE Github Hackathon</title>
+    <link>/docs/topics/</link>
+    <description>Recent content on SORTEE Github Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/docs/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career Support</title>
       <link>/docs/topics/career-support/</link>
@@ -75,28 +74,6 @@ Presentation of the breakout room topic Step#Exposition of examples OR indivi
       <description>Visualizing Data and Results#This document serves as a place holder for content that will be collaboratively created at Hackathon. link to Collaborative Google Doc
 Presentation of the breakout room topic#Questions I am interested in:
  How do we use Github to display our data and results? Notebooks, Websites, ect How do we build our Github repositories and organizations for displaying our work to our team or community?</description>
-    </item>
-    
-    <item>
-      <title>GitHub for research documentation</title>
-      <link>/posts/github-for-research-documentation/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/github-for-research-documentation/</guid>
-      <description>GitHub for research documentation#See the slides here
-
-A tutorial written by Emma Hudgins
-1. Getting set up# Make a Github account Download the Github Desktop App (optional) Create an OSF account (optional) Create a Research Data Management Plan for your project  2. Using GitHub desktop#2.1 creating a repo# In the left pane, select Add to create a new repository Choose Create new repository and give the path to a new project folder (or fork this one via Clone, or add an existing folder).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/docs/hidden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/hidden/</guid>
-      <description>This page is hidden in menu#Quondam non pater est dignior ille Eurotas#Latent te facies#Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
- Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona#O fallor in sustinui iussorum equidem.</description>
     </item>
     
   </channel>

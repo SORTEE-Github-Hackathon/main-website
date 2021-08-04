@@ -14,7 +14,6 @@ Questions I am interested in:
 -  How do we build our Github repositories and organizations for displaying our work to our team or community? Directory structure, documentation, ect
 -  Github vs Other venues? Is Github even right for this?  
 
-
 ## Exposition of examples OR individual/collective practices 
 
 -  Use of displaying notebooks as experiments on Github
@@ -23,7 +22,6 @@ Questions I am interested in:
 	-  Example:  https://github.com/DiscoveryDNA
 -  Hosting website to work on research publicly 
 	-  Example: 1. Organization: https://github.com/cabinetofcuriosity 2. Website: https://github.com/cabinetofcuriosity/cabinetofcuriosity_site
-
 
 ## Discussion and summary of challenges
 

@@ -76,5 +76,15 @@ Presentation of the breakout room topic #  Questions I am interested in:
  How do we use Github to display our data and results? Notebooks, Websites, ect How do we build our Github repositories and organizations for displaying our work to our team or community?</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/docs/topics/writing_session_notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/topics/writing_session_notes/</guid>
+      <description>Writing Session notes #  
+The goal of write-up (blog post and then manuscript) #   We want to create a &amp;lsquo;guide&amp;rsquo; Here&amp;rsquo;s what you can do with github, take them or leave them. (And the drawbacks too!) Make sure we are highlighting limitations by our background in ecoevo (e.g., our reliance on R). These are the hurdles specifically in EcoEvo. And make specific recs. (e.g., PI can make GitHub issues on their student&amp;rsquo;s code).</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Writing Session notes #  
+The goal of write-up (blog post and then manuscript) #   We want to create a &lsquo;guide&rsquo; Here&rsquo;s what you can do with github, take them or leave them. (And the drawbacks too!) Make sure we are highlighting limitations by our background in ecoevo (e.g., our reliance on R). These are the hurdles specifically in EcoEvo. And make specific recs. (e.g., PI can make GitHub issues on their student&rsquo;s code).">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="" />
+<meta property="og:description" content="Writing Session notes #  
+The goal of write-up (blog post and then manuscript) #   We want to create a &lsquo;guide&rsquo; Here&rsquo;s what you can do with github, take them or leave them. (And the drawbacks too!) Make sure we are highlighting limitations by our background in ecoevo (e.g., our reliance on R). These are the hurdles specifically in EcoEvo. And make specific recs. (e.g., PI can make GitHub issues on their student&rsquo;s code)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/docs/topics/writing_session_notes/" /><meta property="article:section" content="docs" />
+
+
+
+<title>Writing Session Notes | SORTEE Github Hackathon</title>
+<link rel="manifest" href="../../../manifest.json">
+<link rel="icon" href="../../../favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="../../../book.min.508cb7d44af698c8168fb53b994c078279d27ebf22955771fcc28c795a2e3aee.css" >
+  <script defer src="../../../flexsearch.min.js"></script>
+  <script defer src="../../../en.search.min.169a9e15e3ceec84815f46b61ee7744d2b1aa1a108cccb745257593da09e8b0f.js" ></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a href="../../../"><span>SORTEE Github Hackathon</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/topics/" class="">Topics</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/topics/career-support/" class="">Career Support</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/topics/dynamic-collaboration/" class="">Dynamic Collaboration</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/topics/programming-and-coding/" class="">Programming and Coding</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/topics/research_documentation/" class="">Research documentation</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/topics/tech-support/" class="">Tech Support</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/topics/visualizing-data-and-results/" class="">Visualizing Data and Results</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/topics/writing_session_notes/" class=" active">Writing Session Notes</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="../../../posts/" >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var a=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(b){localStorage.setItem("menu.scrollTop",a.scrollTop)}),a.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="../../../svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Writing Session Notes</strong>
+
+  <label for="toc-control">
+    
+    <img src="../../../svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-goal-of-write-up-blog-post-and-then-manuscript">The goal of write-up (blog post and then manuscript)</a>
+      <ul>
+        <li><a href="#github-and-r-in-ecoevo">GitHub and R in EcoEvo</a></li>
+        <li><a href="#idea-for-a-figurealgorithm">Idea for a figure/algorithm</a></li>
+      </ul>
+    </li>
+    <li><a href="#a-few-of-pain-points-to-using-github">A few of pain points to using GitHub</a>
+      <ul>
+        <li><a href="#1-the-github-learning-curve-technical-skills">1. The GitHub learning curve (technical skills)</a></li>
+        <li><a href="#2-reluctance-to-do-science-openly-cultural-reluctance">2. Reluctance to do science openly (cultural reluctance)</a></li>
+        <li><a href="#3-publishing-code-and-data-for-peer-review">3. publishing code and data for peer review</a></li>
+        <li><a href="#how-to-decide-what-to-archivehost-in-github">How to decide what to archive/host in GitHub</a></li>
+        <li><a href="#top-down-vs-bottom-up-resistance">Top-down vs. bottom-up resistance</a></li>
+        <li><a href="#idea-for-a-github-survey">Idea for a &lsquo;github survey&rsquo;</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="writing-session-notes">
+  Writing Session notes
+  <a class="anchor" href="#writing-session-notes">#</a>
+</h1>
+<p><a href="https://hackmd.io/gz7dYhjUQZy0EV8xrJHalg"><img src="https://hackmd.io/gz7dYhjUQZy0EV8xrJHalg/badge" alt="hackmd-github-sync-badge" /></a></p>
+<h2 id="the-goal-of-write-up-blog-post-and-then-manuscript">
+  The goal of write-up (blog post and then manuscript)
+  <a class="anchor" href="#the-goal-of-write-up-blog-post-and-then-manuscript">#</a>
+</h2>
+<ul>
+<li>We want to create a &lsquo;guide&rsquo;</li>
+<li>Here&rsquo;s what you can do with github, take them or leave them. (And the drawbacks too!)</li>
+<li>Make sure we are highlighting limitations by our background in ecoevo (e.g., our reliance on R).  These are the hurdles specifically in EcoEvo. And make specific recs. (e.g., PI can make GitHub issues on their student&rsquo;s code).</li>
+<li>Journal considerations: Methods in EcoEvo</li>
+<li>And GitHub isn&rsquo;t the &lsquo;end all be all&rsquo;</li>
+<li>Take the elements of GitHub that work for you, but this can be done on many platforms</li>
+</ul>
+<p><strong>Blog ideas</strong></p>
+<ul>
+<li>Methods in EcoEvo has a blog: <a href="https://methodsblog.com/">https://methodsblog.com/</a></li>
+</ul>
+<p><strong>Journal ideas</strong></p>
+<ul>
+<li><em>Journal of Statistics and Data Science Education</em> Reproducibility Special issue: <a href="https://nhorton.people.amherst.edu/call_reproducibility.pdf">https://nhorton.people.amherst.edu/call_reproducibility.pdf</a>
+From their call for papers: Topics in the special issue that align with our proposal: Incorporating source code (version) control systems, Developing and implementing documentation and code standards, Supporting collaboration
+<strong>September 15, 2021 (deadline for submissions)</strong></li>
+<li><em>Methods in EcoEvo</em> publishes lots of &lsquo;guides&rsquo; <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13652">https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13652</a></li>
+<li>elife (Prof. Eisen gave plenary and is editor of this journal) <a href="https://elifesciences.org/">https://elifesciences.org/</a> They require preprints published before review</li>
+<li>Rio: <a href="https://riojournal.com/">https://riojournal.com/</a></li>
+<li>TREE: <a href="https://www.cell.com/trends/ecology-evolution/aims">https://www.cell.com/trends/ecology-evolution/aims</a></li>
+<li>Ecological Informatics: <a href="https://www.sciencedirect.com/journal/ecological-informatics/about/aims-and-scope">https://www.sciencedirect.com/journal/ecological-informatics/about/aims-and-scope</a></li>
+</ul>
+<h3 id="github-and-r-in-ecoevo">
+  GitHub and R in EcoEvo
+  <a class="anchor" href="#github-and-r-in-ecoevo">#</a>
+</h3>
+<p>In EcoEvo github use is predicated on an understanding R. This close connection has some benefits, but Python, Julia. Lots of ways to use GitHub that are independent from R. We have in this hackathon a definite focus on R tools for interacting with GitHub, but sometimes the issues we present at &lsquo;github&rsquo; issues might be more about the ways that we interact with Github (i.e. through R vs shell)</p>
+<h3 id="idea-for-a-figurealgorithm">
+  Idea for a figure/algorithm
+  <a class="anchor" href="#idea-for-a-figurealgorithm">#</a>
+</h3>
+<p>Flow chart that can guide us in what we need to learn to get the most out of gitHub in this moment</p>
+<ul>
+<li>focus on learning how to submit issues
+4 different people that might want to use GitHub: first time learner, PI, individual researcher who is going to do this all, person who wants to advance their workflow using github (i.e. learn a bunch of new things!)
+Make a table/figure: Here are the alternative tools for collab / version control, Check marks for what github does vs. google docs vs. zenodo vs. edit-save-attach</li>
+</ul>
+<p>^This reminds me of the RStudio &ldquo;learner personas&rdquo; which might serve as a model: <a href="https://rstudio-education.github.io/learner-personas/">https://rstudio-education.github.io/learner-personas/</a></p>
+<h2 id="a-few-of-pain-points-to-using-github">
+  A few of pain points to using GitHub
+  <a class="anchor" href="#a-few-of-pain-points-to-using-github">#</a>
+</h2>
+<h3 id="1-the-github-learning-curve-technical-skills">
+  1. The GitHub learning curve (technical skills)
+  <a class="anchor" href="#1-the-github-learning-curve-technical-skills">#</a>
+</h3>
+<p><em>Learning to use Github requires time, but the payoff is worth it.</em></p>
+<ul>
+<li>Time vs. effort examples or analyses to demonstrate the payoff can help drive the point home to convince people to learn these tools</li>
+<li>New job? Interdisciplinary collab? May have to be prepared for working with version control software.</li>
+<li>What&rsquo;s the minimum github knowledge that you need to know to start using github</li>
+<li>And, if you make a mistake, you can always undo it!</li>
+</ul>
+<h3 id="2-reluctance-to-do-science-openly-cultural-reluctance">
+  2. Reluctance to do science openly (cultural reluctance)
+  <a class="anchor" href="#2-reluctance-to-do-science-openly-cultural-reluctance">#</a>
+</h3>
+<p><em>Fear of scooping or sharing data also feeds into reluctance due to worries of intellectual property.</em></p>
+<ul>
+<li>suggestion: to keep the repository private until publication, then make it public</li>
+<li>suggestion: make use of github licenses to indicate that material on github is citable!</li>
+<li>And journals (e.g., AGU-related journals) require data/code sharing and they don&rsquo;t consider it &lsquo;shared&rsquo; unless there&rsquo;s a working DOI For it.</li>
+<li>But publishing data/code on github is not a &lsquo;one shot&rsquo; aka eminem approach (thanks for this, Emma)</li>
+<li>Addressing ways to share links to private code for reviewers or collaborators without making everything public would be helpful for this</li>
+</ul>
+<h3 id="3-publishing-code-and-data-for-peer-review">
+  3. publishing code and data for peer review
+  <a class="anchor" href="#3-publishing-code-and-data-for-peer-review">#</a>
+</h3>
+<ul>
+<li>GitHub definitely helps with this process, but it&rsquo;s still a pain point.  How can we share private link for peer review, that has a citable DOI, but will DOI update</li>
+</ul>
+<hr>
+<h3 id="how-to-decide-what-to-archivehost-in-github">
+  How to decide what to archive/host in GitHub
+  <a class="anchor" href="#how-to-decide-what-to-archivehost-in-github">#</a>
+</h3>
+<p>Need to make decisision for what to host on GitHub, and when to post publicly vs. privately</p>
+<h3 id="top-down-vs-bottom-up-resistance">
+  Top-down vs. bottom-up resistance
+  <a class="anchor" href="#top-down-vs-bottom-up-resistance">#</a>
+</h3>
+<p><em>Is reluctance to use git related to how entrenched you are in what you do (e.g. senior researchers)?</em></p>
+<ul>
+<li>being introduced to git in undergrad or as junior researchers seems to be easier or at least more common</li>
+<li>A lot of what senior researchers would use git(hub) to do (issues, pull requests, code review etc.) can actually be done via the browser without having to learn git commands. Kind of a minimal effort way to participate in open science.</li>
+<li>Convincing people to spend time learning new skills when their workflow is already working for them is hard, especially in a publish or perish type of culture that does not allow for &ldquo;unproductive&rdquo; (heavy quotation marks here) time</li>
+</ul>
+<h3 id="idea-for-a-github-survey">
+  Idea for a &lsquo;github survey&rsquo;
+  <a class="anchor" href="#idea-for-a-github-survey">#</a>
+</h3>
+<ul>
+<li>Can we do a search for field (i.e. animal behavior vs. ecology research)</li>
+<li>Journals to go through and see who shares code</li>
+<li>Ratio btwn web of science articles and tag per field (proxy for research effort)</li>
+</ul>
+<p>Other resources:
+<a href="https://bioceed.uib.no/dropfolder/sites/bioSTATS-and-R/DataManagement/GitTutorial.html">https://bioceed.uib.no/dropfolder/sites/bioSTATS-and-R/DataManagement/GitTutorial.html</a></p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function a(c){const a=window.getSelection(),b=document.createRange();b.selectNodeContents(c),a.removeAllRanges(),a.addRange(b)}document.querySelectorAll("pre code").forEach(b=>{b.addEventListener("click",function(c){a(b.parentElement),navigator.clipboard&&navigator.clipboard.writeText(b.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-goal-of-write-up-blog-post-and-then-manuscript">The goal of write-up (blog post and then manuscript)</a>
+      <ul>
+        <li><a href="#github-and-r-in-ecoevo">GitHub and R in EcoEvo</a></li>
+        <li><a href="#idea-for-a-figurealgorithm">Idea for a figure/algorithm</a></li>
+      </ul>
+    </li>
+    <li><a href="#a-few-of-pain-points-to-using-github">A few of pain points to using GitHub</a>
+      <ul>
+        <li><a href="#1-the-github-learning-curve-technical-skills">1. The GitHub learning curve (technical skills)</a></li>
+        <li><a href="#2-reluctance-to-do-science-openly-cultural-reluctance">2. Reluctance to do science openly (cultural reluctance)</a></li>
+        <li><a href="#3-publishing-code-and-data-for-peer-review">3. publishing code and data for peer review</a></li>
+        <li><a href="#how-to-decide-what-to-archivehost-in-github">How to decide what to archive/host in GitHub</a></li>
+        <li><a href="#top-down-vs-bottom-up-resistance">Top-down vs. bottom-up resistance</a></li>
+        <li><a href="#idea-for-a-github-survey">Idea for a &lsquo;github survey&rsquo;</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

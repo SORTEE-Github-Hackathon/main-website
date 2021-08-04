@@ -29,3 +29,5 @@ Session organizers and material developers: Pedro Henrique P. Braga<sup>- *</sup
 [![render-rmarkdown-exercise-2](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-exercise-2.yaml/badge.svg)](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-exercise-2.yaml)
 
 *Ignore. Testing Github Action.*
+
+*Working?*

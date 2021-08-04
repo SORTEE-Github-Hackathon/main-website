@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on SORTEE Github Hackathon</title>
+    <link>/posts/</link>
+    <description>Recent content in Blog on SORTEE Github Hackathon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub for research documentation</title>
+      <link>/posts/github-for-research-documentation/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/github-for-research-documentation/</guid>
+      <description>GitHub for research documentation #  See the slides here
+
+A tutorial written by Emma Hudgins
+1. Getting set up #   Make a Github account Download the Github Desktop App (optional) Create an OSF account (optional) Create a Research Data Management Plan for your project  2. Using GitHub desktop #  2.1 creating a repo #   In the left pane, select Add to create a new repository Choose Create new repository and give the path to a new project folder (or fork this one via Clone, or add an existing folder).</description>
+    </item>
+    
+  </channel>
+</rss>

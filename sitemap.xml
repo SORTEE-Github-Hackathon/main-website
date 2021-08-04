@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/example/topics/career-support/</loc>
+    <loc>/docs/topics/career-support/</loc>
   </url><url>
-    <loc>/docs/example/topics/dynamic-collaboration/</loc>
+    <loc>/docs/topics/dynamic-collaboration/</loc>
   </url><url>
-    <loc>/docs/example/</loc>
+    <loc>/docs/</loc>
   </url><url>
-    <loc>/docs/example/topics/programming-and-coding/</loc>
+    <loc>/docs/topics/programming-and-coding/</loc>
   </url><url>
-    <loc>/docs/example/topics/research_documentation/</loc>
+    <loc>/docs/topics/research_documentation/</loc>
   </url><url>
-    <loc>/docs/example/topics/tech-support/</loc>
+    <loc>/docs/topics/tech-support/</loc>
   </url><url>
-    <loc>/docs/example/topics/visualizing-data-and-results/</loc>
+    <loc>/docs/topics/visualizing-data-and-results/</loc>
   </url><url>
     <loc>/posts/github-for-research-documentation/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/example/topics/</loc>
+    <loc>/docs/topics/</loc>
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
@@ -27,11 +27,9 @@
     <loc>/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/example/hidden/</loc>
+    <loc>/docs/hidden/</loc>
   </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/docs/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

@@ -1,0 +1,41 @@
+# Hi! The purpose of this Github Action is to build the hugo website and deploy it to the gh-pages branch.
+# For the moment, it is limited to building a simple website. Do not hesitate to file an issue to request 
+# changes to allow for a custom domain, automatated updates to the theme, and other options. 
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+      - cron: '0 0 * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: 🛎️ Checkout repository
+      uses: actions/checkout@v2
+      with:
+          submodules: true  # Fetch Hugo themes
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+   - name: 💾 Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+          hugo-version: 'latest'
+
+    - name: 🧽 Clean docs directory
+      run: rm -rf docs
+
+    - name: 💻 Build
+      run: hugo
+      
+    - name: 🧶 Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs

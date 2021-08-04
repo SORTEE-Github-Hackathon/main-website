@@ -10,3 +10,4 @@ weight: 10
 - Research Documentation
 - Tech Support
 - Visualizing Data and Results
+- Writing Session Notes

@@ -29,7 +29,7 @@ title: "Hackathon Schedule"
 |20:35 / 1:35pm  | Breakout room summary and group discussion. Each group reports back in 5-10 min|
 |21:30 / 2:30pm  | **BREAK** |
 |21:40 / 2:40pm  | Closing and next steps  |
-|22:00 / 3:00pm  | *optional* start manuscript outline in breakout writing rooms|
+|22:00 / 3:00pm  | *optional* Start manuscript outline in breakout writing rooms|
 |23:00 / 4:00pm  | **END** |
 
 ---

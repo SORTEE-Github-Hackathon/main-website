@@ -4,7 +4,6 @@ weight: 10
 
 ## Overview of Topics
 
-
 - Career Support
 - Dynamic Collaboration
 - Programming and Coding

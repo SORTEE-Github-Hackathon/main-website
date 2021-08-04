@@ -23,7 +23,6 @@ SORTEE is a service organization which brings together researchers working to im
 
 {{< /columns >}}
 
-
 ## Background 
 
 Researchers, scientific journals, and data repositories have increasingly focused on scientific data being more Findable, Accessible, Interoperable, and Reusable (FAIR). Yet, a large number of new publications within ecology and evolution still lack adherence to FAIR code and data-sharing policies (Culina et al. 2020).

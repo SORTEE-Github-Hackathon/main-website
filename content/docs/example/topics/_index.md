@@ -9,6 +9,7 @@ weight: 10
 - Dynamic Collaboration
 - Programming and Coding
 - Research Documentation
-- Tech Suppport
-- Visualizing Data and Resutls
+- Tech Support
+- Visualizing Data and Results
+- Writing session
 

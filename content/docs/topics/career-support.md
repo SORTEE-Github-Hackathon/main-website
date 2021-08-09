@@ -4,7 +4,7 @@ weight: 1
 ---
 # Career Support
 
-The following is a summary of the collaborative discussion during the SORTEE Hackathon, using [this hackmd document](https://hackmd.io/GVZfqP90R1-LcDreB-ngBQ).
+The following is a summary of the collaborative discussion about "Uses of Github to support your career", that took place during the SORTEE Hackathon. Go to [this hackmd document](https://hackmd.io/GVZfqP90R1-LcDreB-ngBQ) for original notes from participants.
 
 Participants of this topic:
 

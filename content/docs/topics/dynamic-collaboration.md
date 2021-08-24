@@ -26,8 +26,4 @@ Session organizers and material developers: Pedro Henrique P. Braga<sup>- *</sup
 
 [![render-rmarkdown-material](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-material.yaml/badge.svg)](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-material.yaml)
 
-[![render-rmarkdown-exercise-2](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-exercise-2.yaml/badge.svg)](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-exercise-2.yaml)
-
-*Ignore. Testing Github Action.*
-
-*Working?*
+[![render-rmarkdown-exercise-2](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-exercise-2-alternative.yaml/badge.svg)](https://github.com/SORTEE-Github-Hackathon/SORTEE-Hackathon-Dynamic-Collaboration/actions/workflows/render-rmd-exercise-2-alternative.yaml)

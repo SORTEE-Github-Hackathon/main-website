@@ -19,5 +19,14 @@ A tutorial written by Emma Hudgins
 1. Getting set up #   Make a Github account Download the Github Desktop App (optional) Create an OSF account (optional) Create a Research Data Management Plan for your project  2. Using GitHub desktop #  2.1 creating a repo #   In the left pane, select Add to create a new repository Choose Create new repository and give the path to a new project folder (or fork this one via Clone, or add an existing folder).</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/posts/sept_2021_notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sept_2021_notes/</guid>
+      <description>Meeting notes 8/30/2021 #  Agenda #   Discuss takeaways from our GitHub article review Carving out our niche for this manuscript  Methods in Ecology and Evolution, Rio, Trends in Ecology and Evolution, Ecological Informatics   Dylan created a collaboration comparison table October meeting homework (Figure brainstorming) General time for monthly meetings?  Notes #  Takeaways from our GitHub article review #  Some papers went farther from only discussing work related to GitHub, and touched on issues related to why people don’t make their studies replicable, what prevents them from using software.</description>
+    </item>
+    
   </channel>
 </rss>
